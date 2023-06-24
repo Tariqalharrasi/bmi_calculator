@@ -1,6 +1,11 @@
 # bmi_calculator
 
-A new Flutter project.
+A simple flutter app I made within 5 days
+
+![WhatsApp Image 2023-06-24 at 10 08 08 PM](https://github.com/Tariqalharrasi/bmi_calculator/assets/58836862/59c6dc71-6ed5-4c39-80c3-7667b3f6ee1f)
+
+
+![WhatsApp Image 2023-06-24 at 10 08 07 PM](https://github.com/Tariqalharrasi/bmi_calculator/assets/58836862/1a72a380-1995-4db9-8690-a4c59e665ed4)
 
 ## Getting Started
 
